@@ -1,0 +1,20 @@
+-Starting the Quiz:
+    Press the "Start" button to begin. This will shuffle the question order and display the first question.
+    You'll see a timer counting down from 60 seconds, giving you an overview of the remaining time. The quiz will automatically end once the timer reaches zero.
+-Answering Questions:
+    Each question will be displayed on the screen, along with multiple choice answer options below it.
+-Navigating Through Questions (All buttons located at the bottom of the screen):
+    "Previous" Button: Click this button to go back to the previous question (if available).
+    "Next" Button: Click this button to move on to the next question (if available). This button will change to "Finish" when you reach the last question in the quiz.
+    "All Questions" Button:
+        This displays a list of all questions in the quiz, highlighting unanswered ones. You can click on a question in this list to jump to that question in the quiz.
+    "Back to Menu" Button: Use this button if you want to quit the quiz before answering all questions. Clicking it will trigger a confirmation popup.
+-Submitting Answers and Finishing the Quiz:
+    This app provides immediate feedback on your answer (correct or incorrect).
+    When you reach the last question, the "Next" button will change to "Finish". Click this button to end the quiz.
+-Finishing the Quiz:
+    "Finish" Button: Click this button when you've answered the last question or when you see it displayed instead of "Next". This will end the quiz, showing your results and providing options to review answers.
+-After finishing your quiz, the app will provide immediate feedback using color indicators:
+    Green: This indicates you chose the correct answer. Great job!
+    Red: This indicates you chose the incorrect answer.
+    Yellow: This option was correct.

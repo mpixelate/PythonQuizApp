@@ -1,0 +1,18 @@
+question_id;topic;question;correct_answer;answer2;answer3;answer4
+1;Variables, expressions and statements;Which of the following is NOT a valid variable name in Python?;4age;____;NOT_DEFINED;a123
+2;Variables, expressions and statements;What data type is most likely assigned to the variable name = "Alice" in Python?;String (str);Integer (int);Float (float);Boolean (bool)
+3;Variables, expressions and statements;The expression 5 + 3 * 2 evaluates to what value in Python?;11;16;25;30
+4;Variables, expressions and statements;Which of the following is an example of a statement in Python?;All of them;x = 10;5 + 3;# This is a comment
+5;Variables, expressions and statements;What is the purpose of comments in Python code?;To explain the code for human readers (ignored by computer);To define functions;To slow down the execution of the code;To store data for later use
+6;Variables, expressions and statements;Which of the following is a valid way to check if a variable x is equal to 5 in Python?;if x == 5:;x = 5 ==;if (x == 5);x == 5 =>
+7;Variables, expressions and statements;When evaluating the expression y // 3, what mathematical operation does // perform?;Integer division, discarding any remainder;Modulus, returning the remainder after division;Exponentiation;Multiplication
+8;Variables, expressions and statements;What does the keyword "in" do when used within an expression in Python?;Checks if a value is present within a sequence (like a list or string);Negates the value;Performs string concatenation;Assigns a value to a variable
+9;Tuples, Lists, and Dictionaries;What is the main difference between a tuple and a list in Python?;Tuples are immutable (unchangeable), while lists are mutable (changeable);Tuples are mutable (changeable), while lists are immutable (unchangeable);Lists are used for storing numerical data, while tuples can hold mixed data types;Lists are iterable, while tuples are not
+10;Tuples, Lists, and Dictionaries;How do you create a tuple containing the names "Alice", "Bob", and "Charlie"?;names = ("Alice", "Bob", "Charlie");names = ["Alice", "Bob", "Charlie"];names = {"Alice", "Bob", "Charlie"};names = Tuple("Alice", "Bob", "Charlie")
+11;Tuples, Lists, and Dictionaries;How can you access the second element in a list named "numbers"?;numbers[1];numbers.get(2);numbers(1);numbers[2]
+12;Tuples, Lists, and Dictionaries;What is the purpose of a dictionary in Python?;To store a collection of items with unique keys and associated values.;To define a custom data type.;To efficiently sort a list of elements.;To perform mathematical calculations.
+13;Tuples, Lists, and Dictionaries;How can you iterate over the keys in a dictionary named data?;for key in data.keys():;for key in data:;for value in data.values():; There's no built-in way to iterate over keys directly.
+14;Tuples, Lists, and Dictionaries;How do you add a new key-value pair to a dictionary named "person"?;person.update({"age": 30});person.add("age", 30);person["age"] = 30;person.add({"age", 30})
+15;Tuples, Lists, and Dictionaries;Which one does not create a new list that contains a copy of all the elements from an existing list "original_list"?;new_list = original_list;new_list = original_list.copy();new_list = [i for i in original_list];new_list = list(original_list)
+16;Tuples, Lists, and Dictionaries;Which of the following is not a built-in method of lists in Python?;delete(element);sort();append(element);reverse()
+17;Variables, expressions and statements;Which of the following is a valid variable name in Python?;_p______;"class";NOT-DEFINED;yield
